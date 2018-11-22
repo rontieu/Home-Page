@@ -1,1 +1,3 @@
-<a href="https://rontieu.github.io/Home-Page/">Home Page</a> that I use for personal browsing.
+# Home Page
+
+<a href="https://rontieu.github.io/Home-Page/">Personal home page</a> that I use for browsing.
