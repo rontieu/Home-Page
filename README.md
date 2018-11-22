@@ -1,2 +1,1 @@
-Homepage that I use for personal browsing. <br />
-Currently accessible at: https://rontieu.github.io/Home-Page/
+<a href=" https://rontieu.github.io/Home-Page/">Home Page</a> that I use for personal browsing.
