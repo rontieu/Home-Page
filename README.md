@@ -1,3 +1,9 @@
 # Home Page
 
-<a href="https://rontieu.github.io/Home-Page/">Personal home page</a> that I use for browsing.
+A basic <a href="https://rontieu.github.io/Home-Page/">Home page</a> that can be used whenever the browser is opened with links to commonly used sites such as:
+
+
+- Twitter
+- Facebook
+- Reddit
+- Email
