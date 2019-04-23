@@ -1,9 +1,21 @@
 # Home Page
 
-A basic <a href="https://rontieu.github.io/Home-Page/">home page</a> that can be used whenever the browser is opened with links to commonly used sites such as:
+A light weight homepage that can be set as a default page in browsers such as Google Chrome.
 
+Link: https://rontieu.com/Home-Page
 
-- Twitter
-- Facebook
-- Reddit
+Currently uses the DuckDuckGo search engine and includes the following links:
 - Email
+  - Gmail
+  - Hotmail
+  - Yahoo
+- Work
+  - GitHub
+  - Google Drive
+- Social Media
+  - Facebook and Facebook Messenger
+  - Twitter
+  - Reddit
+- Video Streaming Sites
+  - Youtube
+  - Twitch
