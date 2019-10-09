@@ -1,8 +1,6 @@
 # Home Page
 
-A light weight homepage that can be set as a default page in browsers such as Google Chrome.
-
-Link: https://rontieu.com/Home-Page
+A [light weight homepage](https://rontieu.com/Home-Page) that I set as a default webpage in my personal browser.
 
 Currently uses the DuckDuckGo search engine and includes the following links:
 - Email
