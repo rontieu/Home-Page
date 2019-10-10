@@ -1,6 +1,6 @@
 # Home Page
 
-A [light weight homepage](https://rontieu.com/Home-Page) that I set as a default webpage in my personal browser.
+A [light weight homepage](https://my-small-home-page.herokuapp.com/) that I set as a default webpage in my personal browser.
 
 Currently uses the DuckDuckGo search engine and includes the following links:
 - Email
